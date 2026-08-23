@@ -1,2 +1,20 @@
 [
+    {
+    "recordId": "NWSC-KIREK-P-0000",
+    "entryDate": "2026-08-22",
+    "assetNumber": "003",
+    "serialNumber": "268300",
+    "pumpManufacturer": "Nexus",
+    "pumpModel": "10021",
+    "pumpType": "Centrifugal",
+    "pumpCapacity": "180",
+    "motorRating": "10",
+    "motorSerialNumber": "456861",
+    "station": "Kireka",
+    "location": "Water treatment",
+    "deliveredBy": "James",
+    "dateReceived": "2026-08-22",
+    "faultReported": "Bearing",
+    "condition": "In Service"
+  }
 ]
